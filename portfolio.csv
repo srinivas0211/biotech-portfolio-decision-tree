@@ -1,0 +1,4 @@
+Program,Indication,PoS,PeakSales,DevCost,LaunchYear
+P1,IndA,0.4,800,120,2029
+P1,IndB,0.35,600,90,2030
+P2,IndC,0.5,1000,150,2028
